@@ -4,7 +4,7 @@
 
 **Your Ultimate Movie, TV Show & Entertainment Streaming Experience**
 
-[![Version](https://img.shields.io/badge/version-4.0.1-red.svg)](https://github.com/hzhef/hz_flix_mobile/releases)
+[![Version](https://img.shields.io/badge/version-5.0.0-red.svg)](https://github.com/hzhef/hz_flix_mobile/releases)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/license-Private-blue.svg)]()
 
@@ -14,7 +14,7 @@
 
 ## 📱 About HZ Flix
 
-HZ Flix is a powerful, all-in-one entertainment application that brings movies, TV shows, music, sports, and YouTube content to your fingertips. Experience seamless streaming with a beautiful, modern interface designed for the ultimate viewing experience.
+HZ Flix is a powerful, all-in-one entertainment application that brings movies, TV shows, music, sports to your fingertips. Experience seamless streaming with a beautiful, modern interface designed for the ultimate viewing experience.
 
 ## ✨ Key Features
 
@@ -27,7 +27,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Detailed Information** - Get comprehensive details, cast info, and ratings
 
 ### 🎵 Music Streaming
-- **YouTube Music Integration** - Stream millions of songs
+- **Music Integration** - Stream millions of songs
 - **High-Quality Audio** - Enjoy crystal clear sound
 - **Background Playback** - Listen to music while using other apps
 - **Download Music** - Save your favorite tracks for offline listening
@@ -39,11 +39,6 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Live TV Channels** - Access sports channels in real-time
 - **Match Countdown** - Get notified about upcoming matches
 - **Live Scores** - Stay updated with match status and scores
-
-### 📺 YouTube Integration
-- **Trending Videos** - Discover what's trending
-- **Seamless Playback** - Watch YouTube videos with enhanced player
-- **Categories** - Browse videos by category
 
 ### 💾 Download Manager
 - **Offline Viewing** - Download movies, shows, and music for offline access
@@ -73,7 +68,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 ### Download & Install
 
 1. **Download the APK**
-   - Go to the [Releases](https://github.com/hzhef/hz_flix_mobile/releases) page
+   - Go to the [Releases](https://github.com/hzhefaz/hzflix/releases) page
    - Download the latest version APK file
 
 2. **Enable Unknown Sources** (if needed)
@@ -104,7 +99,6 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Search** 🔍 - Find movies, shows, music, or YouTube videos
 - **Music** 🎵 - Browse and stream music
 - **Sports** ⚽ - Watch live sports and matches
-- **YouTube** 📺 - Explore YouTube content
 - **Downloads** 💾 - Access your offline content
 - **Profile** 👤 - Manage watchlist and view history
 
@@ -169,9 +163,9 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 
 Having issues or suggestions? We'd love to hear from you!
 
-- **Report Issues**: [GitHub Issues](https://github.com/hzhef/hz_flix_mobile/issues)
+- **Report Issues**: [GitHub Issues](https://github.com/hzhefaz/hzflix/issues)
 - **Feature Requests**: Open an issue with the "Feature Request" label
-- **Updates**: Check [Releases](https://github.com/hzhef/hz_flix_mobile/releases) for latest versions
+- **Updates**: Check [Releases](https://github.com/hzhefaz/hzflix/releases) for latest versions
 
 ## ⚠️ Disclaimer
 
@@ -181,7 +175,7 @@ This application is for personal use only. Users are responsible for ensuring th
 
 The app includes an automatic update checker that notifies you when new versions are available. Simply download and install the new APK to update.
 
-**Current Version**: 4.0.1  
+**Current Version**: 5.0.0  
 **Latest Updates**:
 - Enhanced security features
 - Improved streaming quality
@@ -196,6 +190,7 @@ The app includes an automatic update checker that notifies you when new versions
 
 ⭐ Star this repo if you enjoy HZ Flix!
 
-[Download Latest Release](https://github.com/hzhef/hz_flix_mobile/releases/latest) • [Report Bug](https://github.com/hzhef/hz_flix_mobile/issues) • [Request Feature](https://github.com/hzhef/hz_flix_mobile/issues)
+[Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
