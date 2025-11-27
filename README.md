@@ -175,12 +175,11 @@ This application is for personal use only. Users are responsible for ensuring th
 
 The app includes an automatic update checker that notifies you when new versions are available. Simply download and install the new APK to update.
 
-**Current Version**: 5.0.0  
+**Current Version**: 5.2.0  
 **Latest Updates**:
-- Enhanced security features
-- Improved streaming quality
-- Better music player experience
-- Bug fixes and performance improvements
+- ⚡ **Performance Boost**
+- 🐛 **Bug Fixes**
+- 🎨 **UI/UX Refinements**
 
 ---
 
@@ -193,4 +192,5 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
 
