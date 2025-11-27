@@ -4,7 +4,7 @@
 
 **Your Ultimate Movie, TV Show & Entertainment Streaming Experience**
 
-[![Version](https://img.shields.io/badge/version-5.0.0-red.svg)](https://github.com/hzhef/hz_flix_mobile/releases)
+[![Version](https://img.shields.io/badge/version-5.2.0-red.svg)](https://github.com/hzhef/hz_flix_mobile/releases)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/license-Private-blue.svg)]()
 
@@ -33,7 +33,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Download Music** - Save your favorite tracks for offline listening
 - **Beautiful Player** - Modern music player with intuitive controls
 
-### ⚽ Live Sports
+### 📽️ Live
 - **Cricket Matches** - Watch live cricket matches and tournaments
 - **Football Games** - Stream football matches from around the world
 - **Live TV Channels** - Access sports channels in real-time
@@ -98,7 +98,7 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Home** 🏠 - Discover trending movies, shows, and streaming services
 - **Search** 🔍 - Find movies, shows, music, or YouTube videos
 - **Music** 🎵 - Browse and stream music
-- **Sports** ⚽ - Watch live sports and matches
+- **Live** 📽️ - Watch live TV, sports and matches
 - **Downloads** 💾 - Access your offline content
 - **Profile** 👤 - Manage watchlist and view history
 
@@ -116,8 +116,8 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 3. Tap to play instantly
 4. Use the download icon to save for offline
 
-#### Watching Sports
-1. Go to the Sports tab
+#### Watching Live TV & Sports
+1. Go to the Live tab
 2. Select Cricket, Football, or Live TV
 3. Choose a match or channel
 4. Start streaming live
@@ -192,5 +192,6 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
+
 
 
