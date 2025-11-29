@@ -2,9 +2,9 @@
 
 # 🎬 HZ Flix
 
-**Your Ultimate Movie, TV Show & Entertainment Streaming Experience**
+**Your Ultimate Movie, TV Show, Anime & Entertainment Streaming Experience**
 
-[![Version](https://img.shields.io/badge/version-5.2.0-red.svg)](https://github.com/hzhef/hz_flix_mobile/releases)
+[![Version](https://img.shields.io/badge/version-6.0.0-red.svg)](https://github.com/hzhefaz/hzflix/releases)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/license-Private-blue.svg)]()
 
@@ -14,7 +14,7 @@
 
 ## 📱 About HZ Flix
 
-HZ Flix is a powerful, all-in-one entertainment application that brings movies, TV shows, music, sports to your fingertips. Experience seamless streaming with a beautiful, modern interface designed for the ultimate viewing experience.
+HZ Flix is a powerful, all-in-one entertainment application that brings movies, TV shows, anime, music, and live content to your fingertips. Experience seamless streaming with a beautiful, modern interface designed for the ultimate viewing experience.
 
 ## ✨ Key Features
 
@@ -26,17 +26,26 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **View History** - Never lose track of what you've watched
 - **Detailed Information** - Get comprehensive details, cast info, and ratings
 
+### 🎌 Anime Streaming
+- **AniList Integration** - Browse trending, popular, and top-rated anime
+- **Full Episode Lists** - Access all episodes with organized viewing
+- **Dual Language Support** - Watch with original subtitles or dubbed versions
+- **Anime Details** - View characters, ratings, genres, and descriptions
+- **Seasonal Anime** - Discover current season and upcoming anime
+- **Watch History** - Track your anime viewing progress
+- **Seamless Navigation** - Dedicated anime section with beautiful UI
+
 ### 🎵 Music Streaming
-- **Music Integration** - Stream millions of songs
+- **YouTube Music Integration** - Stream millions of songs
 - **High-Quality Audio** - Enjoy crystal clear sound
 - **Background Playback** - Listen to music while using other apps
 - **Download Music** - Save your favorite tracks for offline listening
 - **Beautiful Player** - Modern music player with intuitive controls
 
-### 📽️ Live
+### 📺 Live
 - **Cricket Matches** - Watch live cricket matches and tournaments
 - **Football Games** - Stream football matches from around the world
-- **Live TV Channels** - Access sports channels in real-time
+- **Live TV Channels** - Access live TV channels in real-time
 - **Match Countdown** - Get notified about upcoming matches
 - **Live Scores** - Stay updated with match status and scores
 
@@ -96,9 +105,10 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 
 ### Navigation
 - **Home** 🏠 - Discover trending movies, shows, and streaming services
-- **Search** 🔍 - Find movies, shows, music, or YouTube videos
+- **Search** 🔍 - Find movies, shows, and music
+- **Anime** 🎌 - Browse and watch anime content from AniList
 - **Music** 🎵 - Browse and stream music
-- **Live** 📽️ - Watch live TV, sports and matches
+- **Live** 📺 - Watch live sports, matches, and TV channels
 - **Downloads** 💾 - Access your offline content
 - **Profile** 👤 - Manage watchlist and view history
 
@@ -110,13 +120,21 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 3. Select a streaming provider
 4. Choose quality and enjoy streaming
 
+#### Watching Anime
+1. Navigate to the Anime tab
+2. Browse Trending, Popular, or Top Rated anime
+3. Tap on any anime to view details and episodes
+4. Select an episode from the Episodes tab
+5. Choose Original/Sub or Dubbed audio
+6. Start streaming instantly
+
 #### Listening to Music
 1. Navigate to the Music tab
 2. Browse trending songs or search for your favorite
 3. Tap to play instantly
 4. Use the download icon to save for offline
 
-#### Watching Live TV & Sports
+#### Watching Live Content
 1. Go to the Live tab
 2. Select Cricket, Football, or Live TV
 3. Choose a match or channel
@@ -175,11 +193,13 @@ This application is for personal use only. Users are responsible for ensuring th
 
 The app includes an automatic update checker that notifies you when new versions are available. Simply download and install the new APK to update.
 
-**Current Version**: 5.2.0  
+**Current Version**: 6.0.0  
 **Latest Updates**:
-- ⚡ **Performance Boost**
-- 🐛 **Bug Fixes**
-- 🎨 **UI/UX Refinements**
+- 🎌 **NEW:** Anime streaming with AniList integration
+- 📺 Full episode lists and dual language support (Sub/Dub)
+- 🎨 Enhanced UI with dedicated anime section
+- 🔧 Improved streaming quality and performance
+- 🐛 Bug fixes and stability improvements
 
 ---
 
@@ -192,6 +212,3 @@ The app includes an automatic update checker that notifies you when new versions
 [Download Latest Release](https://github.com/hzhefaz/hzflix/releases/latest) • [Report Bug](https://github.com/hzhefaz/hzflix/issues) • [Request Feature](https://github.com/hzhefaz/hzflix/issues)
 
 </div>
-
-
-
