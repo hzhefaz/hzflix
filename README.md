@@ -71,7 +71,8 @@ HZ Flix is a powerful, all-in-one entertainment application that brings movies, 
 - **Auto-Update System** - Get notified about new app versions
 
 ### 📷 App Screenshot
-<img width="2056" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/5f8d52a3-7109-4c74-8329-f00224f33515" />
+<img alt="image1" src="https://github.com/user-attachments/assets/72169c2d-4504-4405-b879-d82840d4fecb" />
+
 
 
 ## 📥 Installation
