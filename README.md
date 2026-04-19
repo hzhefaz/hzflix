@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#" target="_blank"><img src=https://github.com/user-attachments/assets/359ba774-06fb-4a0c-bea0-e5dde8bbcb1a/></a>
+<img width="2752" height="1536" alt="logo" src="https://github.com/user-attachments/assets/adc1a15b-1f88-479a-90f2-c911aab0aa50" />
 # 🎬 HZ Flix
 
 **Your Ultimate Movie, TV Show, Anime & Entertainment Streaming Experience**
