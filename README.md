@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="2752" height="1536" alt="logo" src="https://github.com/user-attachments/assets/adc1a15b-1f88-479a-90f2-c911aab0aa50" />
-# 🎬 HZ Flix
+<img alt="logo" src="https://github.com/user-attachments/assets/adc1a15b-1f88-479a-90f2-c911aab0aa50" />
+🎬 HZ Flix
 
 **Your Ultimate Movie, TV Show, Anime & Entertainment Streaming Experience**
 
