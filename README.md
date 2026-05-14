@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/hzhefaz/hzflix/main/.github/assets/banner.svg" alt="HZ Flix" width="100%" style="max-width:900px"/>
 
-<img src="https://raw.githubusercontent.com/hzhefaz/hzflix/main/.github/assets/features-ticker.svg" alt="Features" width="100%" style="max-width:900px"/>
+<img src="https://raw.githubusercontent.com/hzhefaz/hzflix/refs/heads/main/.github/assets/features-ticker.svg" alt="Features" width="100%" style="max-width:900px"/>
 
 <br/>
 <br/>
