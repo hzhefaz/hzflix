@@ -49,7 +49,6 @@
 | 🎵 **Music** | Millions of songs in high-fidelity audio. Background playback when screen is off. Offline downloads built in. |
 | 📺 **Live** | Live cricket, football, and TV channels in real time. Match countdowns, live scores, and instant stream access. |
 | 💾 **Downloads** | Full offline download manager with progress tracking and smart storage management. |
-| 🔒 **Security** | Runs on secure non-rooted devices only. Screen capture protection and device integrity checks. |
 | 🔍 **Voice Search** | Find any content instantly with built-in voice search support. |
 | 🔄 **Auto-Update** | App checks for new versions on launch and notifies you automatically. |
 
