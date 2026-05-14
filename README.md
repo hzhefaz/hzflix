@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/hzhefaz/hzflix/main/.github/assets/features-ticker.svg" alt="Features" width="100%" style="max-width:900px"/>
 
 <br/>
+<br/>
 
 [![Downloads](https://img.shields.io/github/downloads/hzhefaz/hzflix/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=E53935&labelColor=1a1a1a)](https://github.com/hzhefaz/hzflix/releases)
 [![Latest Release](https://img.shields.io/github/v/release/hzhefaz/hzflix?style=flat-square&logo=github&logoColor=white&label=Latest%20Version&color=E53935&labelColor=1a1a1a)](https://github.com/hzhefaz/hzflix/releases/latest)
@@ -69,7 +70,6 @@
 | Android Version | 5.0 (Lollipop) or higher |
 | Storage | Minimum 100 MB free |
 | Internet | Required for streaming |
-| Device | Non-rooted device recommended |
 
 <br/>
 
@@ -192,20 +192,16 @@ HZ Flix is intended for personal use only. Users are solely responsible for ensu
 
 <img src="https://raw.githubusercontent.com/hzhefaz/hzflix/main/.github/assets/footer.svg" alt="" width="100%" style="max-width:900px"/>
 
-<br/>
+<br/><br/>
 
 [![Star this repo](https://img.shields.io/github/stars/hzhefaz/hzflix?style=for-the-badge&logo=github&labelColor=1a1a1a&color=E53935&label=⭐%20Star%20This%20Repo)](https://github.com/hzhefaz/hzflix)
 &nbsp;
 [![Report a Bug](https://img.shields.io/badge/🐛%20Report%20a%20Bug-GitHub%20Issues-E53935?style=for-the-badge&labelColor=1a1a1a)](https://github.com/hzhefaz/hzflix/issues)
-
 <br/><br/>
-
 <a href="https://github.com/hzhefaz/hzflix/releases/latest/download/app-release.apk">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20LATEST%20VERSION-E53935?style=for-the-badge" height="44"/>
 </a>
-
 <br/><br/>
-
 *Made with ❤️ for entertainment lovers*
 
 </div>
