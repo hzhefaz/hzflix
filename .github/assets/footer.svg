@@ -1,0 +1,70 @@
+<svg width="100%" viewBox="0 0 900 120" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="footerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E53935" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="120" fill="#0a0a0a" rx="0"/>
+  <ellipse cx="450" cy="60" rx="300" ry="80" fill="url(#footerGlow)">
+    <animate attributeName="rx" values="300;340;300" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Top border line -->
+  <rect width="900" height="1" fill="#E53935" opacity="0.3"/>
+
+  <!-- Star icon animated -->
+  <text x="450" y="52" text-anchor="middle" font-size="22" opacity="0">
+    ⭐
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 450 45;15 450 45;-15 450 45;0 450 45"
+      dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="75" text-anchor="middle"
+        font-family="'Arial Black', Impact, sans-serif"
+        font-size="13" letter-spacing="6" fill="#ffffff" opacity="0">
+    STAR THIS REPO
+    <animate attributeName="opacity" values="0;0;0.8" dur="1s" fill="freeze" keyTimes="0;0.4;1"/>
+  </text>
+  <text x="450" y="95" text-anchor="middle"
+        font-family="Arial,sans-serif"
+        font-size="10" letter-spacing="2" fill="#E53935" opacity="0">
+    IF YOU ENJOY HZ FLIX
+    <animate attributeName="opacity" values="0;0;0.6" dur="1.3s" fill="freeze" keyTimes="0;0.5;1"/>
+  </text>
+
+  <!-- Pulsing dots row -->
+  <g fill="#E53935">
+    <circle cx="390" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="405" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="435" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="465" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="1.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="480" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="495" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="510" cy="110" r="1.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

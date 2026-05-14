@@ -1,0 +1,47 @@
+<svg width="100%" viewBox="0 0 900 100" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="100" fill="#0a0a0a"/>
+
+  <!-- Connecting line -->
+  <line x1="112" y1="42" x2="788" y2="42" stroke="#E53935" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="4 4"/>
+
+  <!-- Step 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/>
+    <circle cx="112" cy="42" r="22" fill="#1a1a1a" stroke="#E53935" stroke-width="1.5"/>
+    <text x="112" y="47" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#E53935">1</text>
+    <text x="112" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">DOWNLOAD</text>
+    <text x="112" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">APK</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.4s" fill="freeze"/>
+    <circle cx="338" cy="42" r="22" fill="#1a1a1a" stroke="#E53935" stroke-width="1.5"/>
+    <text x="338" y="47" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#E53935">2</text>
+    <text x="338" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">ALLOW</text>
+    <text x="338" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">UNKNOWN</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
+    <circle cx="562" cy="42" r="22" fill="#1a1a1a" stroke="#E53935" stroke-width="1.5"/>
+    <text x="562" y="47" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#E53935">3</text>
+    <text x="562" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">INSTALL</text>
+    <text x="562" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">APK</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1s" fill="freeze"/>
+    <circle cx="788" cy="42" r="22" fill="#E53935"/>
+    <text x="788" y="47" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="16" font-weight="900" fill="#ffffff">4</text>
+    <text x="788" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">ENJOY</text>
+    <text x="788" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="0.5" fill="#888888">HZ FLIX</text>
+  </g>
+
+  <!-- Progress line animation -->
+  <line x1="112" y1="42" x2="112" y2="42" stroke="#E53935" stroke-width="1.5" stroke-opacity="0.6">
+    <animate attributeName="x2" values="112;788" dur="1.2s" begin="0.1s" fill="freeze"/>
+  </line>
+</svg>
